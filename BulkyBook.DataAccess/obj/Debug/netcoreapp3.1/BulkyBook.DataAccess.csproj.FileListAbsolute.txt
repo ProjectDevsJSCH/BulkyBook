@@ -1,0 +1,7 @@
+C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.deps.json
+C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.dll
+C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.AssemblyInfo.cs
+C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.pdb
+C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.dll
+C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.pdb
