@@ -55,8 +55,6 @@ C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook\obj\Debug\netcoreapp
 C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.TagHelpers.output.cache
 C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.RazorCoreGenerate.cache
 C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
-C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
@@ -417,3 +415,9 @@ C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook\obj\Debug\netcoreapp
 C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.Views.pdb
 C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.Views.pdb
+C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
