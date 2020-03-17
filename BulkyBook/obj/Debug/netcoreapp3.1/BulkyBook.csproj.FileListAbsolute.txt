@@ -421,3 +421,4 @@ C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook\obj\Debug\netcoreapp
 C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
 C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
 C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Dapper.dll
