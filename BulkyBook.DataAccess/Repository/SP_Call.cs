@@ -28,7 +28,7 @@ namespace BulkyBook.DataAccess.Repository
         }
 
         /// <summary>
-        /// Store Procedure that should update
+        /// Store Procedure that should be updating or editing
         /// </summary>
         /// <param name="procedureName"></param>
         /// <param name="param"></param>
