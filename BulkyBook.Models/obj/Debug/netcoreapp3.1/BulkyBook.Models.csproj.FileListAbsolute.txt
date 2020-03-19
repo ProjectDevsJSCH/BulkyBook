@@ -5,3 +5,4 @@ C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\net
 C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\netcoreapp3.1\BulkyBook.Models.AssemblyInfo.cs
 C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\netcoreapp3.1\BulkyBook.Models.dll
 C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\netcoreapp3.1\BulkyBook.Models.pdb
+C:\Users\juan.castelblanco\source\repos\BulkyBook\BulkyBook.Models\obj\Debug\netcoreapp3.1\BulkyBook.Models.csprojAssemblyReference.cache
