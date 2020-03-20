@@ -57,6 +57,12 @@ namespace BulkyBook
                 options.ClientId = "331986434268-m0itrfsfb848ianiujac5jk0lj122c1m.apps.googleusercontent.com";
                 options.ClientSecret = "U-PeqbVTqLEA7JDcttRKrGCj";
             });
+            services.AddSession(options =>
+            {
+                options.IdleTimeout = TimeSpan.FromMinutes(30);
+                options.Cookie.HttpOnly = true;
+                options.Cookie.IsEssential = true;
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -77,6 +83,7 @@ namespace BulkyBook
             app.UseStaticFiles();
 
             app.UseRouting();
+            app.UseSession();
 
             app.UseAuthentication();
             app.UseAuthorization();
